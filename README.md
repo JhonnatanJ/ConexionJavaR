@@ -15,6 +15,7 @@
 
 <p>3. Tener instalado R con las librerias: RServe,reader,NbCluster,EMcluster</p>
 	<p>y alzar el servidor en R.</p>
+<p> Fecha de creación: 10/02/2022 <p>
 
 
 
