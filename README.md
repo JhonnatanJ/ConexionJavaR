@@ -26,7 +26,7 @@
 	<p>Se necesitan tener agregadas las librerias:</p>
 	<p>REngine<br>RServeEngine<br>RServe</p>
 	<p><b>OJO:<b> Todas las librerias utilizadas se encuentran en este repositorio, en la carpeta "librerias".</p>
-	<p><b>El proyecto fue desarrollado en el IDE Apache Netbeans 12.0 utilizando Java JDK 9 </b></p>
+	<p><b>El proyecto fue desarrollado en el IDE Apache Netbeans 12.0 utilizando Java JDK 9 , y como base de datos PostgreSQL 14</b></p>
 
 
 <p> Fecha de creación: 10/02/2022 <p>
